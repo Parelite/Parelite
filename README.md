@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello! I'm Parelite.
 
+- 🔭 I’m currently learning Python because I have nothing else to do
 <!--
 **Parelite/Parelite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
